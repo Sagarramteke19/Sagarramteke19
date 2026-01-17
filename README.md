@@ -6,6 +6,7 @@
 ---
 
 🔹 About Me
+
 - I help businesses with predictive models, forecasts, dashboards, and custom solutions.
   
 - 🎯 Aspiring Data Scientist focused on real-world applications of ML & AI.  
