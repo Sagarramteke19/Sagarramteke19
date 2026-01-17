@@ -6,11 +6,20 @@
 ---
 
 🔹 About Me
+-  I help businesses with predictive models, forecasts, dashboards, and custom solutions.
+  
 - 🎯 Aspiring Data Scientist focused on real-world applications of ML & AI.  
 - 🔍 Strong experience in **image classification, sound analysis, time-series forecasting, and fraud detection**.  
 - 🚀 Proficient in **Python, PyTorch, TensorFlow, SQL, Power BI, and Streamlit**.  
 - ☁️ Comfortable with **AWS, Kafka, and FastAPI** for deployment & real-time systems.  
 - 🌱 Constantly learning and building projects to sharpen my skills.  
+
+### 🚀 What I Can Do for You
+- Build predictive models for forecasting, classification, and anomaly detection.
+- Create **clean Python code + documentation** ready for deployment.
+- Deliver interactive dashboards with Power BI/Tableau/Streamlit.
+- Help scale models with APIs (FastAPI) and real-time systems (Kafka).
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Machine+Learning+Engineer;Data+Scientist;AI+Research+Enthusiast;Python+%7C+PyTorch+%7C+SQL+%7C+AWS" alt="Typing SVG" />
