@@ -36,7 +36,7 @@
 - 🧠 [Vision Transformer for CIFAR-10](https://github.com/Sagarramteke19/vision-transformer-cifar10)
   *Implemented ViT from scratch with attention heatmaps and compared with CNN baselines.*  
 
-- 🔊 [Urban Sound Classification](https://github.com/sagar-ramteke/urban-sound-classification)  
+- 🔊 [Urban Sound Classification](https://github.com/UrbanSoundCardiff/ML_UrbanSound)  
   *Audio classification using Librosa features (MFCCs) and ML models.*  
 
 - ⏱️ [Time-Series Forecasting](https://github.com/Sagarramteke19/times-series-forecasting)
